@@ -3,4 +3,4 @@
 ## Тестируем SOAP-сервис
 <https://grey-crater-896418.postman.co/workspace/API~6fc7d1bd-3466-43eb-b009-f160764c8a64/collection/38465058-f06b1395-9d9e-45b5-a608-750223931d4f?action=share&creator=38465058>
 ## Создаем первые автотесты
-<DemoShopping.postman_test_run.json>
+<https://github.com/Dalskaya/api/blob/03e28de5cc9589f8f5e0af8d05b9810eb77fe7bf/DemoShopping.postman_test_run.json>
